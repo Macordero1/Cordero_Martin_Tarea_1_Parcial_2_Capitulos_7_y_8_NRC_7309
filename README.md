@@ -25,6 +25,9 @@
 
 ### **2.	Marco Teórico (Resumen)**
 
+![image](https://user-images.githubusercontent.com/105742149/176596906-d6682d7c-28f8-4687-9808-5af896365eb6.png)
+
+
 ![image](https://user-images.githubusercontent.com/105742149/174685840-af67adcf-54c6-4175-965a-482bbd8f8e49.png)
 
 ![image](https://user-images.githubusercontent.com/105742149/174685878-5a4bb17d-a8dc-4a79-a845-cfc0ada62a9d.png)
