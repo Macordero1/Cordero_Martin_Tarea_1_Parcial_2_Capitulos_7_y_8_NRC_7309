@@ -13,6 +13,8 @@
 
 ### **1.1.	Objetivo General**
 
+* Analizar mediante el estudio de circuitos, la aplicacion de resistores en serie, los votajes de carga, y entender la aplicacion del teorema de superposición del analisis de los mismos.
+
 ### **1.2.	Objetivos Específicos**
 * Identificar las relaciones serie-paralelo
 * Analizar circuitos en serie-paralelo
@@ -199,6 +201,10 @@
 ### **4.	Video**
 
 ### **5.	Conclusiones**
+
+* Mediante el estudio de los circuitos en paralelo podemos conocer su resistencia total mediante calculos.
+* El teorema de Norton ayuda de una gran manera en la simplificacion de los circuitos identificando factores que al momento no se van a utilizar.
+* Las fuentes de voltaje CD son muy importantes ya que las mismas nos permiten modular la intensidad de corriente con la que se desee trabajar en el circuito facilitando asi el trabajo en ellos.
 
 ### **6.	Bibliografía**
 (2007). En T. L.Floyd, Principios de circuitos eléctricos Octava Edición (págs. 227-319). PEARSON Prentice Hall.
