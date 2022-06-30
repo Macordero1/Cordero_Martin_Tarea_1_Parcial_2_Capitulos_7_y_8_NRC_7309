@@ -200,6 +200,8 @@
 
 ### **4.	Video**
 
+https://youtu.be/nYEU--JNBGM
+
 ### **5.	Conclusiones**
 
 * Mediante el estudio de los circuitos en paralelo podemos conocer su resistencia total mediante calculos.
