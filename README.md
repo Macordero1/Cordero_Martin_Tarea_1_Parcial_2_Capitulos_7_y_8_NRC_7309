@@ -93,45 +93,69 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/176591478-9f94a7bd-4b54-478e-a01e-377e0832bf49.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176698183-e029be05-62b7-453b-9977-221cde547de3.png)
+
 **26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?**
+
+![image](https://user-images.githubusercontent.com/105742149/176698458-56bc93fc-8e42-4392-9513-635f71374d94.png)
 
 **28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?**
 
 ![image](https://user-images.githubusercontent.com/105742149/176591763-3ec00861-e7f6-42b1-9805-e8222369601a.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176698682-862d0a3a-49bd-4cc7-9a9e-11f1f80f11df.png)
+
 **30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída?**
+
+![image](https://user-images.githubusercontent.com/105742149/176698782-c4aa4829-314f-47a9-a440-f119236b2db5.png)
 
 **32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.**
 
 ![image](https://user-images.githubusercontent.com/105742149/176591959-b579d9e0-9c45-4ece-98c8-961f89be7f5a.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176698954-6c9fdea9-cbd9-4f93-af77-8a9c19f892af.png)
+
 **34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kΩ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.**
 
 ![image](https://user-images.githubusercontent.com/105742149/176592009-d82a236f-b20e-4884-8db6-2171e35eae28.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176699102-b77f4d30-0efc-4668-a2ff-6d306286585b.png)
 
 **36. Determine la resistencia interna de un voltímetro de 20,000 Ω/V en cada uno de los siguientes ajustes de intervalo.**
 
 **(a) 0.5 V**  **(b) 1 V**  **(c) 5 V**  **(d) 50 V**  **(e) 100 V**  **(f) 1000 V**
 
+![image](https://user-images.githubusercontent.com/105742149/176699751-f571c7b6-c9d0-42f1-bb26-bad6c3b9a248.png)
+
 **38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).**
 
 ![image](https://user-images.githubusercontent.com/105742149/176592338-2552e7f5-df99-47c6-ae4f-ed7762d36d1e.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176699930-2ae7a6f7-6a89-4a40-bc22-c4029683f026.png)
 
 **40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.**
 
 ![image](https://user-images.githubusercontent.com/105742149/176592404-74d28c72-2a03-409b-b0a4-8a51272f8e9e.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176700074-c5e74b6f-e49b-412a-b897-51289884d336.png)
+
 **42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?**
 
 ![image](https://user-images.githubusercontent.com/105742149/176592461-2b899f85-3a3b-4b5c-9836-ca9bacf61b38.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176700164-fdba443c-6317-4d49-be80-2f0b01ad740c.png)
 
 **44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones: **
 
 **(a) Interruptor SW2 conectado a +12 V y los demás conectados a tierra**
 
+Vsalida = v/8 = 12V/8 = 1.5V
+
 **(b) Interruptor SW1 conectado a +12 V y los demás conectados a tierra**
 
 ![image](https://user-images.githubusercontent.com/105742149/176592547-b9f39dd3-1f97-4900-8e89-4655e12240a7.png)
+
+Vsalida = V/16 = 12V/16 = 0.75V
 
 **46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV = 18 kΩ y R2/R4 = 0.02. ¿Cuál es RX?**
 
@@ -150,7 +174,6 @@
 **54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?**
 
 ![image](https://user-images.githubusercontent.com/105742149/176592858-1874ad90-276e-4892-82ab-630b374be1d3.png)
-
 
 ## **Capitulo 8**
 
