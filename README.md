@@ -67,7 +67,11 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/176590649-bf68b21b-c487-4f73-9fa2-2b6611a8709e.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176727515-8076f739-01d3-4ba0-b198-6a1227a70eaa.png)
+
 **8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?**
+
+![image](https://user-images.githubusercontent.com/105742149/176727684-9b09b945-f793-4788-9777-86f0d5ae044a.png)
 
 **12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.**
 
@@ -75,11 +79,20 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/176590923-f4e37891-577d-4887-8a0b-2441368f2a5f.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176727841-bc9275fa-f642-4c73-9d55-28ec3f3d1485.png)
+
 **16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.**
 
 ![image](https://user-images.githubusercontent.com/105742149/176591146-af7fab18-0110-4338-8f72-6af5610adc63.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176727892-eef2698e-be5f-4a17-8ee5-b9999687fe07.png)
+![image](https://user-images.githubusercontent.com/105742149/176727970-7b499fac-aed0-434b-9a50-3d2fa1b9afb1.png)
+![image](https://user-images.githubusercontent.com/105742149/176728012-7c6317e1-526e-44b7-bb76-0f1d2fde2ff5.png)
+![image](https://user-images.githubusercontent.com/105742149/176728047-ee2ab474-ffb0-451a-963f-ef8aaceca027.png)
+
 **18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.**
+
+![image](https://user-images.githubusercontent.com/105742149/176728110-0a9c20de-301f-4a44-8e3d-f7f385f2874c.png)
 
 **20. Determine el voltaje, VAB, en la figura 7-69.**
 
