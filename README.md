@@ -104,10 +104,6 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/176703389-7082f0ab-29c1-4931-8287-37d796110dde.png)
 
-**22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).**
-
-![image](https://user-images.githubusercontent.com/105742149/176591401-7a28814b-4119-49b1-ba22-53cc61385789.png)
-
 **24. Determine el valor de cada resistor mostrado en la figura 7-73.**
 
 ![image](https://user-images.githubusercontent.com/105742149/176591478-9f94a7bd-4b54-478e-a01e-377e0832bf49.png)
