@@ -222,6 +222,9 @@ Vsalida = V/16 = 12V/16 = 0.75V
 
 ![image](https://user-images.githubusercontent.com/105742149/176582927-1f242012-3b61-419a-99d3-efbbbf575c7a.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176738714-091186cf-914b-4c56-821a-8b7df246b12a.png)
+
+
 **18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.**
 
 ![image](https://user-images.githubusercontent.com/105742149/176583002-465e55e9-dd1c-4df4-bc97-4f09f1dd2b69.png)
@@ -234,15 +237,23 @@ Vsalida = V/16 = 12V/16 = 0.75V
 
 ![image](https://user-images.githubusercontent.com/105742149/176583090-c9ed2434-6796-4d20-b790-e28bf6a21393.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176738664-416c256a-eed5-493d-9997-5337f763188f.png)
+
 **24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.**
 
 ![image](https://user-images.githubusercontent.com/105742149/176583146-8ed28fbf-cb0c-42ec-a9ed-427eb27530be.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176738643-da3d1d9a-742f-489b-84ca-1c090a63eea8.png)
+
 
 **26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8=8kΩ.**
 
 **28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.**
 
 ![image](https://user-images.githubusercontent.com/105742149/176583193-be3fac03-4262-4275-873f-b0b4cad2c103.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176738622-a7de9493-c9ec-408c-978e-44c7ff738603.png)
+
 
 **30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.**
 
@@ -258,6 +269,7 @@ Vsalida = V/16 = 12V/16 = 0.75V
 
 ![image](https://user-images.githubusercontent.com/105742149/176583361-f0466cf2-da4c-4dd3-8082-680ec8ae8f50.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176738574-37930249-d43a-49a1-94d6-b81088dff96f.png)
 
 ### **4.	Video**
 
