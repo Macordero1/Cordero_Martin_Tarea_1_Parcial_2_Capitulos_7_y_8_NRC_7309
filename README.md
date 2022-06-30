@@ -75,6 +75,10 @@
 
 **12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.**
 
+![image](https://user-images.githubusercontent.com/105742149/176728976-f557dbb2-fbdf-48c3-b71a-dee43badec99.png)
+![image](https://user-images.githubusercontent.com/105742149/176729010-67eb31f4-aeac-4386-a703-67c368499d22.png)
+![image](https://user-images.githubusercontent.com/105742149/176729045-7d8ce286-4fca-4fcf-8f9f-5f658dc0f1f7.png)
+
 **14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente**
 
 ![image](https://user-images.githubusercontent.com/105742149/176590923-f4e37891-577d-4887-8a0b-2441368f2a5f.png)
