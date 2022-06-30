@@ -27,6 +27,10 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/176596906-d6682d7c-28f8-4687-9808-5af896365eb6.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176598484-8bd1c4ed-0145-4e5f-b796-d945532a90c6.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176600241-1a9e27e5-b7cf-4531-a6fb-9e416a483c71.png)
+
 
 ![image](https://user-images.githubusercontent.com/105742149/174685840-af67adcf-54c6-4175-965a-482bbd8f8e49.png)
 
@@ -43,7 +47,12 @@
 **2. Visualice y trace los siguientes circuitos en serie-paralelo: **
 
 **(a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie**
+
+![image](https://user-images.githubusercontent.com/105742149/176599268-de288f8e-2986-4999-840e-eccf06e24b1a.png)
+
 **(b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores**
+
+![image](https://user-images.githubusercontent.com/105742149/176599305-f0dc59fd-20b5-4e35-9ac2-6e346669d698.png)
 
 **4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.**
 
@@ -70,6 +79,8 @@
 **20. Determine el voltaje, VAB, en la figura 7-69.**
 
 ![image](https://user-images.githubusercontent.com/105742149/176591301-7b455111-1b9f-4131-90c2-998cb54f7a9a.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176602110-92e30e0c-fd07-44f5-a6d5-de0d85858b37.png)
 
 **22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).**
 
