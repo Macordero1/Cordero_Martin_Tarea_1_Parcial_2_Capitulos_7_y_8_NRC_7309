@@ -83,7 +83,7 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/176591301-7b455111-1b9f-4131-90c2-998cb54f7a9a.png)
 
-![image](https://user-images.githubusercontent.com/105742149/176602110-92e30e0c-fd07-44f5-a6d5-de0d85858b37.png)
+![image](https://user-images.githubusercontent.com/105742149/176703389-7082f0ab-29c1-4931-8287-37d796110dde.png)
 
 **22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).**
 
