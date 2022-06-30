@@ -61,6 +61,8 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/176590615-1d05f4bb-b0b9-49fe-af77-9a3e4915a055.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176711430-944990f6-e526-4bc8-84cb-19952c829ec3.png)
+
 **6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor**
 
 ![image](https://user-images.githubusercontent.com/105742149/176590649-bf68b21b-c487-4f73-9fa2-2b6611a8709e.png)
@@ -145,7 +147,7 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/176700164-fdba443c-6317-4d49-be80-2f0b01ad740c.png)
 
-**44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones: **
+**44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:**
 
 **(a) Interruptor SW2 conectado a +12 V y los demás conectados a tierra**
 
@@ -159,21 +161,23 @@ Vsalida = V/16 = 12V/16 = 0.75V
 
 **46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV = 18 kΩ y R2/R4 = 0.02. ¿Cuál es RX?**
 
+![image](https://user-images.githubusercontent.com/105742149/176725881-ecdce939-cbc4-4a59-aa81-821d5ac07c6c.png)
+
 **48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60⁰C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.**
 
-![image](https://user-images.githubusercontent.com/105742149/176592706-dd14af46-d4a5-4d58-92d9-c18455273b83.png)
+![image](https://user-images.githubusercontent.com/105742149/176725928-59947c06-aef6-4eff-b616-26771ddc87f3.png)
 
 **50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?**
 
-![image](https://user-images.githubusercontent.com/105742149/176592734-ae021b15-cc1b-4081-9e1b-35d96b70e3dd.png)
+![image](https://user-images.githubusercontent.com/105742149/176725976-5158be62-7dab-42c1-832d-ea124e525c31.png)
 
 **52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.**
  
- ![image](https://user-images.githubusercontent.com/105742149/176592792-2c58a68c-8c33-4b40-ac0e-78fb08e5d2e1.png)
+ ![image](https://user-images.githubusercontent.com/105742149/176726019-8afa8e88-81ec-4bc2-bb2a-d095b2d7deb9.png)
 
 **54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?**
 
-![image](https://user-images.githubusercontent.com/105742149/176592858-1874ad90-276e-4892-82ab-630b374be1d3.png)
+![image](https://user-images.githubusercontent.com/105742149/176726090-747622a9-76e5-473b-b3e0-b5d2f78e28eb.png)
 
 ## **Capitulo 8**
 
@@ -181,9 +185,13 @@ Vsalida = V/16 = 12V/16 = 0.75V
 
 ![image](https://user-images.githubusercontent.com/105742149/176582717-4f12b09c-73cc-4cc8-8816-0db1d42da8c3.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176726413-54f73d39-6827-42a9-aa0d-19bcb5fb3b4e.png)
+
 **6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.**
 
 ![image](https://user-images.githubusercontent.com/105742149/176582778-83e62906-31aa-4e3a-98a2-6acf58fe8631.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176726472-8d664158-bb96-4e1f-b2fc-49c0c076aa43.png)
 
 **8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.**
 
